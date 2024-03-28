@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ELViN\\source\\repos\\ClassT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9E764A-37D7-454C-A4DC-126D72FC04B8}|ClassT\\ClassT.csproj|c:\\users\\elvin\\source\\repos\\classt\\classt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9E764A-37D7-454C-A4DC-126D72FC04B8}|ClassT\\ClassT.csproj|solutionrelative:classt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9E764A-37D7-454C-A4DC-126D72FC04B8}|ClassT\\ClassT.csproj|C:\\Users\\ELViN\\source\\repos\\ClassT\\classt\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9E764A-37D7-454C-A4DC-126D72FC04B8}|ClassT\\ClassT.csproj|solutionrelative:classt\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\ClassT\\ClassT\\Product.cs",
+              "RelativeDocumentMoniker": "ClassT\\Product.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\ClassT\\ClassT\\Product.cs",
+              "RelativeToolTip": "ClassT\\Product.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:39:36.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\ClassT\\ClassT\\Program.cs",
+              "RelativeDocumentMoniker": "ClassT\\Program.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\ClassT\\ClassT\\Program.cs",
+              "RelativeToolTip": "ClassT\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowA0AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:39:14.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

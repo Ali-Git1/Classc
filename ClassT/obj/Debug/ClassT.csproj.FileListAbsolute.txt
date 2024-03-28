@@ -1,0 +1,7 @@
+C:\Users\ELViN\source\repos\ClassT\ClassT\bin\Debug\ClassT.exe.config
+C:\Users\ELViN\source\repos\ClassT\ClassT\bin\Debug\ClassT.exe
+C:\Users\ELViN\source\repos\ClassT\ClassT\bin\Debug\ClassT.pdb
+C:\Users\ELViN\source\repos\ClassT\ClassT\obj\Debug\ClassT.csproj.AssemblyReference.cache
+C:\Users\ELViN\source\repos\ClassT\ClassT\obj\Debug\ClassT.csproj.CoreCompileInputs.cache
+C:\Users\ELViN\source\repos\ClassT\ClassT\obj\Debug\ClassT.exe
+C:\Users\ELViN\source\repos\ClassT\ClassT\obj\Debug\ClassT.pdb
